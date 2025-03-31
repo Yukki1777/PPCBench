@@ -12,20 +12,20 @@ tqdm
 ```
 
 ### Datasets & Results
-The full datasets and results can be found here: https://zenodo.org/records/15111745
+The full datasets and results can be found here: https://zenodo.org/records/15112025.
 
 ### Models
-[HDOCK](http://hdock.phys.hust.edu.cn/)
-[PatchDock](https://bioinfo3d.cs.tau.ac.il/PatchDock/)
-[PIPER](https://cluspro.bu.edu/home.php)
-[ZDOCK](https://zdock.wenglab.org/software/)
-[EquiDock](https://github.com/octavian-ganea/equidock_public/)
-[ElliDock](https://github.com/yaledeus/ElliDock)
-[EBMDock](https://github.com/wuhuaijin/EBMDock)
-[DiffDock-PP](https://github.com/biocad/DiffDock-PP/)
-[GeoDock](https://github.com/Graylab/GeoDock)
-[AlphaFold-Multimer](https://github.com/deepmind/alphafold)
-[AlphaFold3](https://github.com/google-deepmind/alphafold3)
+- [HDOCK](http://hdock.phys.hust.edu.cn/)
+- [PatchDock](https://bioinfo3d.cs.tau.ac.il/PatchDock/)
+- [PIPER](https://cluspro.bu.edu/home.php)
+- [ZDOCK](https://zdock.wenglab.org/software/)
+- [EquiDock](https://github.com/octavian-ganea/equidock_public/)
+- [ElliDock](https://github.com/yaledeus/ElliDock)
+- [EBMDock](https://github.com/wuhuaijin/EBMDock)
+- [DiffDock-PP](https://github.com/biocad/DiffDock-PP/)
+- [GeoDock](https://github.com/Graylab/GeoDock)
+- [AlphaFold-Multimer](https://github.com/deepmind/alphafold)
+- [AlphaFold3](https://github.com/google-deepmind/alphafold3)
 
 ### DockQ
 
