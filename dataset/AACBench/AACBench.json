@@ -1,0 +1,129 @@
+{"pdb": "8av9", "rchain": ["A"], "lchain": ["H", "L"], "heavy_chain": ["H"], "light_chain": ["L"], "ag_chain": ["A"]}
+{"pdb": "8pnu", "rchain": ["G"], "lchain": ["J"], "heavy_chain": ["J"], "light_chain": ["nan"], "ag_chain": ["G"]}
+{"pdb": "8rz0", "rchain": ["A"], "lchain": ["B"], "heavy_chain": ["B"], "light_chain": ["nan"], "ag_chain": ["A"]}
+{"pdb": "8z8v", "rchain": ["A"], "lchain": ["B"], "heavy_chain": ["B"], "light_chain": ["nan"], "ag_chain": ["A"]}
+{"pdb": "9iy2", "rchain": ["A"], "lchain": ["H", "L"], "heavy_chain": ["H"], "light_chain": ["L"], "ag_chain": ["A"]}
+{"pdb": "8a67", "rchain": ["A", "C", "B"], "lchain": ["D"], "heavy_chain": ["D"], "light_chain": ["nan"], "ag_chain": ["A", "C", "B"]}
+{"pdb": "8g0w", "rchain": ["A"], "lchain": ["C"], "heavy_chain": ["C"], "light_chain": ["nan"], "ag_chain": ["A"]}
+{"pdb": "8g4o", "rchain": ["A"], "lchain": ["H", "L"], "heavy_chain": ["H"], "light_chain": ["L"], "ag_chain": ["A"]}
+{"pdb": "8k3c", "rchain": ["B"], "lchain": ["C", "D"], "heavy_chain": ["C"], "light_chain": ["D"], "ag_chain": ["B"]}
+{"pdb": "8pih", "rchain": ["A"], "lchain": ["B"], "heavy_chain": ["B"], "light_chain": ["nan"], "ag_chain": ["A"]}
+{"pdb": "8tqa", "rchain": ["A"], "lchain": ["H", "L"], "heavy_chain": ["H"], "light_chain": ["L"], "ag_chain": ["A"]}
+{"pdb": "8der", "rchain": ["B"], "lchain": ["X", "Y"], "heavy_chain": ["X"], "light_chain": ["Y"], "ag_chain": ["B"]}
+{"pdb": "9fvc", "rchain": ["A"], "lchain": ["H"], "heavy_chain": ["H"], "light_chain": ["nan"], "ag_chain": ["A"]}
+{"pdb": "8oxx", "rchain": ["A"], "lchain": ["B", "C"], "heavy_chain": ["B"], "light_chain": ["C"], "ag_chain": ["A"]}
+{"pdb": "8u08", "rchain": ["C"], "lchain": ["H", "L"], "heavy_chain": ["H"], "light_chain": ["L"], "ag_chain": ["C"]}
+{"pdb": "8hbw", "rchain": ["A"], "lchain": ["B"], "heavy_chain": ["B"], "light_chain": ["nan"], "ag_chain": ["A"]}
+{"pdb": "8x2l", "rchain": ["B"], "lchain": ["H", "L"], "heavy_chain": ["H"], "light_chain": ["L"], "ag_chain": ["B"]}
+{"pdb": "8rvn", "rchain": ["F"], "lchain": ["H", "L"], "heavy_chain": ["H"], "light_chain": ["L"], "ag_chain": ["F"]}
+{"pdb": "8ftg", "rchain": ["B"], "lchain": ["A"], "heavy_chain": ["A"], "light_chain": ["nan"], "ag_chain": ["B"]}
+{"pdb": "9ctu", "rchain": ["A"], "lchain": ["D", "C"], "heavy_chain": ["D"], "light_chain": ["C"], "ag_chain": ["A"]}
+{"pdb": "8u32", "rchain": ["A"], "lchain": ["C", "B"], "heavy_chain": ["C"], "light_chain": ["B"], "ag_chain": ["A"]}
+{"pdb": "8epa", "rchain": ["I"], "lchain": ["H", "L"], "heavy_chain": ["H"], "light_chain": ["L"], "ag_chain": ["I"]}
+{"pdb": "8tfl", "rchain": ["B"], "lchain": ["H", "L"], "heavy_chain": ["H"], "light_chain": ["L"], "ag_chain": ["B"]}
+{"pdb": "8w90", "rchain": ["B"], "lchain": ["A"], "heavy_chain": ["A"], "light_chain": ["nan"], "ag_chain": ["B"]}
+{"pdb": "8ukv", "rchain": ["A"], "lchain": ["C"], "heavy_chain": ["C"], "light_chain": ["nan"], "ag_chain": ["A"]}
+{"pdb": "8t03", "rchain": ["A"], "lchain": ["C", "D"], "heavy_chain": ["C"], "light_chain": ["D"], "ag_chain": ["A"]}
+{"pdb": "8up2", "rchain": ["C"], "lchain": ["A", "B"], "heavy_chain": ["A"], "light_chain": ["B"], "ag_chain": ["C"]}
+{"pdb": "9gwt", "rchain": ["P"], "lchain": ["H", "L"], "heavy_chain": ["H"], "light_chain": ["L"], "ag_chain": ["P"]}
+{"pdb": "8pwx", "rchain": ["B"], "lchain": ["A"], "heavy_chain": ["A"], "light_chain": ["nan"], "ag_chain": ["B"]}
+{"pdb": "8uw7", "rchain": ["A"], "lchain": ["B"], "heavy_chain": ["B"], "light_chain": ["nan"], "ag_chain": ["A"]}
+{"pdb": "8oud", "rchain": ["A"], "lchain": ["D"], "heavy_chain": ["D"], "light_chain": ["nan"], "ag_chain": ["A"]}
+{"pdb": "8ywr", "rchain": ["A"], "lchain": ["H", "L"], "heavy_chain": ["H"], "light_chain": ["L"], "ag_chain": ["A"]}
+{"pdb": "8esv", "rchain": ["A"], "lchain": ["H", "L"], "heavy_chain": ["H"], "light_chain": ["L"], "ag_chain": ["A"]}
+{"pdb": "8en2", "rchain": ["B"], "lchain": ["C"], "heavy_chain": ["C"], "light_chain": ["nan"], "ag_chain": ["B"]}
+{"pdb": "8b1e", "rchain": ["A"], "lchain": ["B"], "heavy_chain": ["B"], "light_chain": ["nan"], "ag_chain": ["A"]}
+{"pdb": "8cz8", "rchain": ["E"], "lchain": ["C"], "heavy_chain": ["C"], "light_chain": ["nan"], "ag_chain": ["E"]}
+{"pdb": "8yzk", "rchain": ["A"], "lchain": ["C"], "heavy_chain": ["C"], "light_chain": ["nan"], "ag_chain": ["A"]}
+{"pdb": "8r40", "rchain": ["G"], "lchain": ["R"], "heavy_chain": ["R"], "light_chain": ["nan"], "ag_chain": ["G"]}
+{"pdb": "8dqu", "rchain": ["C"], "lchain": ["A"], "heavy_chain": ["A"], "light_chain": ["nan"], "ag_chain": ["C"]}
+{"pdb": "7x35", "rchain": ["A", "C", "B"], "lchain": ["H", "L"], "heavy_chain": ["H"], "light_chain": ["L"], "ag_chain": ["A", "C", "B"]}
+{"pdb": "8en0", "rchain": ["A"], "lchain": ["D"], "heavy_chain": ["D"], "light_chain": ["nan"], "ag_chain": ["A"]}
+{"pdb": "8vdf", "rchain": ["A"], "lchain": ["H", "L"], "heavy_chain": ["H"], "light_chain": ["L"], "ag_chain": ["A"]}
+{"pdb": "8vyl", "rchain": ["D", "C"], "lchain": ["F"], "heavy_chain": ["F"], "light_chain": ["nan"], "ag_chain": ["D", "C"]}
+{"pdb": "8c9x", "rchain": ["A"], "lchain": ["F"], "heavy_chain": ["F"], "light_chain": ["nan"], "ag_chain": ["A"]}
+{"pdb": "8p8j", "rchain": ["A"], "lchain": ["F", "E"], "heavy_chain": ["F"], "light_chain": ["E"], "ag_chain": ["A"]}
+{"pdb": "8dy1", "rchain": ["A"], "lchain": ["C"], "heavy_chain": ["C"], "light_chain": ["nan"], "ag_chain": ["A"]}
+{"pdb": "8idi", "rchain": ["D"], "lchain": ["A"], "heavy_chain": ["A"], "light_chain": ["nan"], "ag_chain": ["D"]}
+{"pdb": "8pe1", "rchain": ["A"], "lchain": ["C"], "heavy_chain": ["C"], "light_chain": ["nan"], "ag_chain": ["A"]}
+{"pdb": "8ez7", "rchain": ["A"], "lchain": ["H", "L"], "heavy_chain": ["H"], "light_chain": ["L"], "ag_chain": ["A"]}
+{"pdb": "8tea", "rchain": ["C"], "lchain": ["H", "G"], "heavy_chain": ["H"], "light_chain": ["G"], "ag_chain": ["C"]}
+{"pdb": "8tqk", "rchain": ["B"], "lchain": ["D", "E"], "heavy_chain": ["D"], "light_chain": ["E"], "ag_chain": ["B"]}
+{"pdb": "9fzd", "rchain": ["A"], "lchain": ["B"], "heavy_chain": ["B"], "light_chain": ["nan"], "ag_chain": ["A"]}
+{"pdb": "8eed", "rchain": ["A"], "lchain": ["H", "L"], "heavy_chain": ["H"], "light_chain": ["L"], "ag_chain": ["A"]}
+{"pdb": "8vsj", "rchain": ["A", "B"], "lchain": ["H", "L"], "heavy_chain": ["H"], "light_chain": ["L"], "ag_chain": ["A", "B"]}
+{"pdb": "8omu", "rchain": ["A"], "lchain": ["B"], "heavy_chain": ["B"], "light_chain": ["nan"], "ag_chain": ["A"]}
+{"pdb": "8qq0", "rchain": ["A"], "lchain": ["E", "D"], "heavy_chain": ["E"], "light_chain": ["D"], "ag_chain": ["A"]}
+{"pdb": "8e6j", "rchain": ["A"], "lchain": ["H", "L"], "heavy_chain": ["H"], "light_chain": ["L"], "ag_chain": ["A"]}
+{"pdb": "8ut2", "rchain": ["B", "A"], "lchain": ["H", "G"], "heavy_chain": ["H"], "light_chain": ["G"], "ag_chain": ["B", "A"]}
+{"pdb": "8u5l", "rchain": ["D"], "lchain": ["F"], "heavy_chain": ["F"], "light_chain": ["nan"], "ag_chain": ["D"]}
+{"pdb": "8b01", "rchain": ["B", "A"], "lchain": ["C"], "heavy_chain": ["C"], "light_chain": ["nan"], "ag_chain": ["B", "A"]}
+{"pdb": "8pyr", "rchain": ["A"], "lchain": ["D"], "heavy_chain": ["D"], "light_chain": ["nan"], "ag_chain": ["A"]}
+{"pdb": "8pij", "rchain": ["A"], "lchain": ["B"], "heavy_chain": ["B"], "light_chain": ["nan"], "ag_chain": ["A"]}
+{"pdb": "8soz", "rchain": ["A"], "lchain": ["C"], "heavy_chain": ["C"], "light_chain": ["nan"], "ag_chain": ["A"]}
+{"pdb": "8rh0", "rchain": ["A"], "lchain": ["H", "L"], "heavy_chain": ["H"], "light_chain": ["L"], "ag_chain": ["A"]}
+{"pdb": "8gnk", "rchain": ["A"], "lchain": ["H", "L"], "heavy_chain": ["H"], "light_chain": ["L"], "ag_chain": ["A"]}
+{"pdb": "8hit", "rchain": ["C"], "lchain": ["A", "B"], "heavy_chain": ["A"], "light_chain": ["B"], "ag_chain": ["C"]}
+{"pdb": "8av2", "rchain": ["A"], "lchain": ["C"], "heavy_chain": ["C"], "light_chain": ["nan"], "ag_chain": ["A"]}
+{"pdb": "8cd0", "rchain": ["A"], "lchain": ["C"], "heavy_chain": ["C"], "light_chain": ["nan"], "ag_chain": ["A"]}
+{"pdb": "8g7a", "rchain": ["A"], "lchain": ["E"], "heavy_chain": ["E"], "light_chain": ["nan"], "ag_chain": ["A"]}
+{"pdb": "8f8x", "rchain": ["B"], "lchain": ["C"], "heavy_chain": ["C"], "light_chain": ["nan"], "ag_chain": ["B"]}
+{"pdb": "8i9s", "rchain": ["A", "B"], "lchain": ["H"], "heavy_chain": ["H"], "light_chain": ["nan"], "ag_chain": ["A", "B"]}
+{"pdb": "8xps", "rchain": ["A"], "lchain": ["B"], "heavy_chain": ["B"], "light_chain": ["nan"], "ag_chain": ["A"]}
+{"pdb": "8i4f", "rchain": ["A"], "lchain": ["C"], "heavy_chain": ["C"], "light_chain": ["nan"], "ag_chain": ["A"]}
+{"pdb": "9bit", "rchain": ["A"], "lchain": ["B"], "heavy_chain": ["B"], "light_chain": ["nan"], "ag_chain": ["A"]}
+{"pdb": "8im0", "rchain": ["A"], "lchain": ["B"], "heavy_chain": ["B"], "light_chain": ["nan"], "ag_chain": ["A"]}
+{"pdb": "8zoy", "rchain": ["A"], "lchain": ["B"], "heavy_chain": ["B"], "light_chain": ["nan"], "ag_chain": ["A"]}
+{"pdb": "8t7a", "rchain": ["a"], "lchain": ["D", "E"], "heavy_chain": ["D"], "light_chain": ["E"], "ag_chain": ["a"]}
+{"pdb": "8tx3", "rchain": ["D", "C"], "lchain": ["H", "L"], "heavy_chain": ["H"], "light_chain": ["L"], "ag_chain": ["D", "C"]}
+{"pdb": "8ozb", "rchain": ["F"], "lchain": ["A"], "heavy_chain": ["A"], "light_chain": ["nan"], "ag_chain": ["F"]}
+{"pdb": "8e0e", "rchain": ["A"], "lchain": ["B"], "heavy_chain": ["B"], "light_chain": ["nan"], "ag_chain": ["A"]}
+{"pdb": "8s0n", "rchain": ["A"], "lchain": ["B"], "heavy_chain": ["B"], "light_chain": ["nan"], "ag_chain": ["A"]}
+{"pdb": "8sfz", "rchain": ["D"], "lchain": ["C"], "heavy_chain": ["C"], "light_chain": ["nan"], "ag_chain": ["D"]}
+{"pdb": "8qz4", "rchain": ["A"], "lchain": ["C"], "heavy_chain": ["C"], "light_chain": ["nan"], "ag_chain": ["A"]}
+{"pdb": "9fww", "rchain": ["A"], "lchain": ["B"], "heavy_chain": ["B"], "light_chain": ["nan"], "ag_chain": ["A"]}
+{"pdb": "8g3z", "rchain": ["C"], "lchain": ["H", "L"], "heavy_chain": ["H"], "light_chain": ["L"], "ag_chain": ["C"]}
+{"pdb": "8ezk", "rchain": ["A"], "lchain": ["H"], "heavy_chain": ["H"], "light_chain": ["nan"], "ag_chain": ["A"]}
+{"pdb": "9bia", "rchain": ["B", "D"], "lchain": ["E"], "heavy_chain": ["E"], "light_chain": ["nan"], "ag_chain": ["B", "D"]}
+{"pdb": "8df1", "rchain": ["B"], "lchain": ["M", "N"], "heavy_chain": ["M"], "light_chain": ["N"], "ag_chain": ["B"]}
+{"pdb": "8iv0", "rchain": ["A"], "lchain": ["B", "C"], "heavy_chain": ["B"], "light_chain": ["C"], "ag_chain": ["A"]}
+{"pdb": "8dn6", "rchain": ["A"], "lchain": ["C", "D"], "heavy_chain": ["C"], "light_chain": ["D"], "ag_chain": ["A"]}
+{"pdb": "8h3y", "rchain": ["B"], "lchain": ["D"], "heavy_chain": ["D"], "light_chain": ["nan"], "ag_chain": ["B"]}
+{"pdb": "8hn1", "rchain": ["A"], "lchain": ["D"], "heavy_chain": ["D"], "light_chain": ["nan"], "ag_chain": ["A"]}
+{"pdb": "8aom", "rchain": ["A"], "lchain": ["V"], "heavy_chain": ["V"], "light_chain": ["nan"], "ag_chain": ["A"]}
+{"pdb": "8thn", "rchain": ["C"], "lchain": ["A", "B"], "heavy_chain": ["A"], "light_chain": ["B"], "ag_chain": ["C"]}
+{"pdb": "8yj8", "rchain": ["B"], "lchain": ["D"], "heavy_chain": ["D"], "light_chain": ["nan"], "ag_chain": ["B"]}
+{"pdb": "7xli", "rchain": ["A"], "lchain": ["B"], "heavy_chain": ["B"], "light_chain": ["nan"], "ag_chain": ["A"]}
+{"pdb": "8dm4", "rchain": ["A"], "lchain": ["H", "L"], "heavy_chain": ["H"], "light_chain": ["L"], "ag_chain": ["A"]}
+{"pdb": "9en2", "rchain": ["A"], "lchain": ["B"], "heavy_chain": ["B"], "light_chain": ["nan"], "ag_chain": ["A"]}
+{"pdb": "8y0r", "rchain": ["2"], "lchain": ["H", "L"], "heavy_chain": ["H"], "light_chain": ["L"], "ag_chain": ["2"]}
+{"pdb": "8cde", "rchain": ["B"], "lchain": ["D", "C"], "heavy_chain": ["D"], "light_chain": ["C"], "ag_chain": ["B"]}
+{"pdb": "8s5w", "rchain": ["A"], "lchain": ["B"], "heavy_chain": ["B"], "light_chain": ["nan"], "ag_chain": ["A"]}
+{"pdb": "7zau", "rchain": ["A"], "lchain": ["B"], "heavy_chain": ["B"], "light_chain": ["nan"], "ag_chain": ["A"]}
+{"pdb": "8jtx", "rchain": ["A"], "lchain": ["B"], "heavy_chain": ["B"], "light_chain": ["nan"], "ag_chain": ["A"]}
+{"pdb": "8cxi", "rchain": ["A"], "lchain": ["H", "L"], "heavy_chain": ["H"], "light_chain": ["L"], "ag_chain": ["A"]}
+{"pdb": "8f60", "rchain": ["C"], "lchain": ["A", "B"], "heavy_chain": ["A"], "light_chain": ["B"], "ag_chain": ["C"]}
+{"pdb": "8dis", "rchain": ["d", "D"], "lchain": ["H", "L"], "heavy_chain": ["H"], "light_chain": ["L"], "ag_chain": ["d", "D"]}
+{"pdb": "8h64", "rchain": ["A"], "lchain": ["B"], "heavy_chain": ["B"], "light_chain": ["nan"], "ag_chain": ["A"]}
+{"pdb": "8vyn", "rchain": ["A"], "lchain": ["D", "E"], "heavy_chain": ["D"], "light_chain": ["E"], "ag_chain": ["A"]}
+{"pdb": "8tfn", "rchain": ["B"], "lchain": ["H", "L"], "heavy_chain": ["H"], "light_chain": ["L"], "ag_chain": ["B"]}
+{"pdb": "8z8m", "rchain": ["A"], "lchain": ["B"], "heavy_chain": ["B"], "light_chain": ["nan"], "ag_chain": ["A"]}
+{"pdb": "8uo9", "rchain": ["A"], "lchain": ["B"], "heavy_chain": ["B"], "light_chain": ["nan"], "ag_chain": ["A"]}
+{"pdb": "8sne", "rchain": ["A"], "lchain": ["B"], "heavy_chain": ["B"], "light_chain": ["nan"], "ag_chain": ["A"]}
+{"pdb": "8ct6", "rchain": ["A"], "lchain": ["H", "L"], "heavy_chain": ["H"], "light_chain": ["L"], "ag_chain": ["A"]}
+{"pdb": "8c5h", "rchain": ["S"], "lchain": ["N"], "heavy_chain": ["N"], "light_chain": ["nan"], "ag_chain": ["S"]}
+{"pdb": "8g78", "rchain": ["A"], "lchain": ["J"], "heavy_chain": ["J"], "light_chain": ["nan"], "ag_chain": ["A"]}
+{"pdb": "8jxs", "rchain": ["C"], "lchain": ["H", "L"], "heavy_chain": ["H"], "light_chain": ["L"], "ag_chain": ["C"]}
+{"pdb": "8apy", "rchain": ["A"], "lchain": ["C"], "heavy_chain": ["C"], "light_chain": ["nan"], "ag_chain": ["A"]}
+{"pdb": "8vzn", "rchain": ["A"], "lchain": ["B", "C"], "heavy_chain": ["B"], "light_chain": ["C"], "ag_chain": ["A"]}
+{"pdb": "8jlw", "rchain": ["A"], "lchain": ["H", "L"], "heavy_chain": ["H"], "light_chain": ["L"], "ag_chain": ["A"]}
+{"pdb": "8et0", "rchain": ["A"], "lchain": ["C"], "heavy_chain": ["C"], "light_chain": ["nan"], "ag_chain": ["A"]}
+{"pdb": "8ghk", "rchain": ["C"], "lchain": ["H", "L"], "heavy_chain": ["H"], "light_chain": ["L"], "ag_chain": ["C"]}
+{"pdb": "8tao", "rchain": ["B"], "lchain": ["C"], "heavy_chain": ["C"], "light_chain": ["nan"], "ag_chain": ["B"]}
+{"pdb": "8wcg", "rchain": ["A"], "lchain": ["C"], "heavy_chain": ["C"], "light_chain": ["nan"], "ag_chain": ["A"]}
+{"pdb": "8r9x", "rchain": ["A"], "lchain": ["H", "L"], "heavy_chain": ["H"], "light_chain": ["L"], "ag_chain": ["A"]}
+{"pdb": "8omz", "rchain": ["A"], "lchain": ["B"], "heavy_chain": ["B"], "light_chain": ["nan"], "ag_chain": ["A"]}
+{"pdb": "7x8t", "rchain": ["A"], "lchain": ["C", "B"], "heavy_chain": ["C"], "light_chain": ["B"], "ag_chain": ["A"]}
+{"pdb": "8i5l", "rchain": ["A"], "lchain": ["D"], "heavy_chain": ["D"], "light_chain": ["nan"], "ag_chain": ["A"]}
+{"pdb": "8u3s", "rchain": ["A"], "lchain": ["B"], "heavy_chain": ["B"], "light_chain": ["nan"], "ag_chain": ["A"]}
+{"pdb": "7xrz", "rchain": ["X"], "lchain": ["H", "L"], "heavy_chain": ["H"], "light_chain": ["L"], "ag_chain": ["X"]}
